@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+  <container path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/com.genuitec.embedded.tomcat.runtime.v70">
+    <custom-jar path="D:lib/资源/mysql-connector-java-5.1.38/mysql-connector-java-5.1.38-bin.jar"/>
+  </container>
+</project>
